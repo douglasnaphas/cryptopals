@@ -41,5 +41,5 @@ int main( int argc, char ** argv ){
 }
 
 void usage(){
-	printf( "usage: challenge1 <hex_string>\n" );
+	printf( "usage: hex2b64tests hex_string>\n" );
 }
